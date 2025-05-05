@@ -1,0 +1,5 @@
+C:\Users\earth\Desktop\CSC262_Final\CSC262_Final\CSC262_Final\obj\Debug\CSC262_Final.csproj.AssemblyReference.cache
+C:\Users\earth\Desktop\CSC262_Final\CSC262_Final\CSC262_Final\obj\Debug\CSC262_Final.LoginForm.resources
+C:\Users\earth\Desktop\CSC262_Final\CSC262_Final\CSC262_Final\obj\Debug\CSC262_Final.Properties.Resources.resources
+C:\Users\earth\Desktop\CSC262_Final\CSC262_Final\CSC262_Final\obj\Debug\CSC262_Final.csproj.GenerateResource.cache
+C:\Users\earth\Desktop\CSC262_Final\CSC262_Final\CSC262_Final\obj\Debug\CSC262_Final.csproj.CoreCompileInputs.cache
